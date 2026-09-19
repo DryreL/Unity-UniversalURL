@@ -1,0 +1,17 @@
+{
+  "name": "com.dryrelhub.unity.universalurl",
+  "version": "1.0.0",
+  "displayName": "Universal URL",
+  "description": "Cross-platform URL opener utility for Unity. Works on WebGL, Windows, Mac, Linux, Android, and iOS.",
+  "unity": "2021.2",
+  "keywords": [
+    "url",
+    "browser",
+    "webgl",
+    "cross-platform",
+    "utility"
+  ],
+  "author": {
+    "name": "DryreL Hub"
+  }
+}
