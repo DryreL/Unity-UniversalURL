@@ -1,4 +1,8 @@
-﻿# Universal URL for Unity
+﻿<p align="center">
+  <img src=".github/icon.png" width="128" height="128" alt="Universal URL icon">
+</p>
+
+# Universal URL for Unity
 
 [![Unity](https://img.shields.io/badge/Unity-2021.2+-black.svg)](https://unity.com/)
 [![Platform](https://img.shields.io/badge/Platform-WebGL%20|%20Windows%20|%20macOS%20|%20Linux%20|%20Android%20|%20iOS-green.svg)](https://unity.com/)
